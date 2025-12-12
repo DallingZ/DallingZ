@@ -41,13 +41,13 @@
 <h3>🛠️ Tech Arsenal</h3>
 <div align="left">
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white" />
 <br>
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-<img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
+<img src="https://img.shields.io/badge/python-%233670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+<img src="https://img.shields.io/badge/MATLAB-%230076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
 <br>
-<img src="https://img.shields.io/badge/Keil_uVision-005A32?style=for-the-badge&logo=arm&logoColor=white" />
-<img src="https://img.shields.io/badge/COMSOL-005596?style=for-the-badge&logo=physics&logoColor=white" />
+<img src="https://img.shields.io/badge/Keil_uVision-%23005A32?style=for-the-badge&logo=arm&logoColor=white" />
+<img src="https://img.shields.io/badge/COMSOL-%23005596?style=for-the-badge&logo=physics&logoColor=white" />
 </div>
 <br>
 <h3>🏐 Life & Hobbies</h3>
