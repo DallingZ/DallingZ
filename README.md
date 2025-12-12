@@ -45,13 +45,16 @@
       </div>
       <br>
       <h3>🏐 Life & Hobbies</h3>
+      <img src="https://img.shields.io/badge/Idol-G.E.M.%20(邓紫棋)-FF69B4?style=for-the-badge&logo=apple-music&logoColor=white" />
+      <br>
       <img src="https://img.shields.io/badge/Sport-Volleyball-orange?style=for-the-badge&logo=exercism&logoColor=white" />
       <img src="https://img.shields.io/badge/Vibe-Music%20Lover-ff0055?style=for-the-badge&logo=apple-music&logoColor=white" />
       <br><br>
       <img src="https://github-readme-audio-wave.vercel.app/api/wave?color=0099ff&background_color=0d1117" width="100%">
     </td>
   </tr>
-</table> 
+</table>
+
 <br>
 
 <h3 align="center">🎧 Now Playing (My Coding BGM)</h3>
@@ -68,7 +71,7 @@
     <img src="https://img.shields.io/badge/Email-zqb__803%40163.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=DallingZ&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DallingZ&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" alt="DallingZ's GitHub stats" />
 </div>
 
 <div align="center">
