@@ -19,7 +19,7 @@
             <b>🚀 2025 - Present (Incoming)</b><br>
             <img src="https://img.shields.io/badge/HUST-Huazhong%20Univ.%20of%20Sci.%20%26%20Tech-004680?style=flat-square&logo=google-scholar&logoColor=white" />
             <br>
-            <i>Master in Control Science & Engineering (Control Engineering)</i>
+            <i>Master in Control Science & Engineering</i>
         </li>
         <br>
         <li>
@@ -43,9 +43,7 @@
       <div align="left">
         <img src="https://skillicons.dev/icons?i=stm32,c,cpp,python,matlab,git,vscode,idea&perline=4" />
       </div>
-      
       <br>
-      
       <h3>🏐 Life & Hobbies</h3>
       <img src="https://img.shields.io/badge/Sport-Volleyball-orange?style=for-the-badge&logo=exercism&logoColor=white" />
       <img src="https://img.shields.io/badge/Vibe-Music%20Lover-ff0055?style=for-the-badge&logo=apple-music&logoColor=white" />
@@ -53,7 +51,8 @@
       <img src="https://github-readme-audio-wave.vercel.app/api/wave?color=0099ff&background_color=0d1117" width="100%">
     </td>
   </tr>
-</table>
+</table> 
+<br>
 
 <h3 align="center">🎧 Now Playing (My Coding BGM)</h3>
 <div align="center">
@@ -64,17 +63,11 @@
 
 <br>
 
-<table align="center" border="0" width="100%">
-  <tr>
-    <td align="center">
-      <a href="mailto:zqb_803@163.com">
-        <img src="https://img.shields.io/badge/Email-zqb__803%40163.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-      </a>
-    </td>
-  </tr>
-</table>
-
 <div align="center">
+  <a href="mailto:zqb_803@163.com">
+    <img src="https://img.shields.io/badge/Email-zqb__803%40163.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=DallingZ&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" />
 </div>
 
