@@ -16,14 +16,14 @@
 <h3>🎓 Academic Journey</h3>
 <ul style="list-style-type: none;">
 <li>
-<b>🚀 2025 - Present (Incoming)</b><br>
+<b>🚀 2026 - Incoming</b><br>
 <img src="https://img.shields.io/badge/HUST-Huazhong%20Univ.%20of%20Sci.%20%26%20Tech-004680?style=flat-square&logo=google-scholar&logoColor=white" />
 <br>
 <i>Master in Control Science & Engineering</i>
 </li>
 <br>
 <li>
-<b>🏫 2021 - 2025</b><br>
+<b>🏫 2022 - 2026</b><br>
 <img src="https://img.shields.io/badge/UPC-China%20Univ.%20of%20Petroleum-005F98?style=flat-square&logo=bookstack&logoColor=white" />
 <br>
 <i>B.Eng in Automation (Major)</i>
